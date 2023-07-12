@@ -51,5 +51,5 @@ I would like to express my gratitude to the instructors and fellow bootcampers a
 
 For any inquiries or questions, please reach out to me via LinkedIn or email. Let's connect and discuss our mutual passion for programming and artificial intelligence!
 
-LinkedIn: [Youssef Charif Hamidi](https://www.linkedin.com/in/youssef-charif-hamidi)
-Email: youssef.charif.h@gmail.com
+* LinkedIn: [Youssef Charif Hamidi](https://www.linkedin.com/in/youssef-charif-hamidi)
+* Email: youssef.charif.h@gmail.com
